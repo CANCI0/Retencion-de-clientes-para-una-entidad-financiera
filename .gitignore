@@ -1,0 +1,17 @@
+# Datos de la competicion
+data/*.csv
+
+# Entornos
+.venv/
+venv/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Figuras regeneradas por el notebook
+infogain_ranking.png
+feature_importance_xgb.png
+
+# Archivos del sistema
+.DS_Store
